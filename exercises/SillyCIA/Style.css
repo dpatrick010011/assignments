@@ -1,0 +1,29 @@
+header {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+header > h1 {
+    color: darkgreen
+}
+
+h2 {
+    color: salmon
+}
+img {
+    float: left;
+    margin: 20px;
+    border: solid 12px
+}
+p, li{
+    font-size: 15pt;
+    line-height: 25px;
+    padding: 8px
+}
+a {
+    text-decoration: none;
+}
+footer {
+    text-align: center; 
+    color: red
+}
