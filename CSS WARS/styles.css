@@ -1,0 +1,24 @@
+body {
+  background: #111111;
+}
+h1 {
+  color: #e2e80f;
+  text-align: center;
+  text-size-adjust: 250pt;
+}
+p {
+  color: #eeeeee;
+
+  font-size: 25pt;
+  line-height: 45pt;
+}
+span.credits {
+  color: #49daff;
+  text-decoration: underline;
+  cursor: pointer;
+  cursor: hand;
+
+}
+#film-description {
+  font-size: 18pt
+}
